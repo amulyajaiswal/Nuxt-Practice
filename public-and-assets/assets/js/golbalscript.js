@@ -1,0 +1,1 @@
+// alert("JavaScript Working from Assets Folder")
